@@ -35,7 +35,7 @@ This project showcases a comprehensive sales dashboard for Blinkit, India's last
 - **DAX:** Employed for calculating metrics and deriving insights from the data.
 
 ## Project Structure
-- `BLINKIT DASHBOARD.pbix`: This Power BI file contains the complete sales dashboard, including all visualizations and data connections.
+ `https://github.com/NAVEENKRH/BLINKIT-SALES-POWER-BI-/blob/main/BLINKIT%20DASHBOARD.pbix`: This Power BI file contains the complete sales dashboard, including all visualizations and data connections.
 
 ## How to Use
 1. **Download the `.pbix` file** from this repository.
